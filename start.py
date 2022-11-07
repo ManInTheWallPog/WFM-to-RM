@@ -1,0 +1,3 @@
+import RivenMarketTransfer
+
+RivenMarketTransfer.save_rivens()
